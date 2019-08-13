@@ -12,3 +12,6 @@ The dataset for this project originates from the UCI Machine Learning Repository
 
 
 ![Few Observations](https://user-images.githubusercontent.com/40944253/62906891-650f0680-bd8e-11e9-8fff-d60e66e28152.png)
+
+### Please Note:
+### I've executed this project work on my local machine with all the project rubrics to meet all required specifications of Udacity Nanodegree Program & uploaded here for reference.
